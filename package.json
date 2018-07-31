@@ -1,16 +1,16 @@
 {
-  "name": "ngRipple",
+  "name": "angular-ripple",
   "description": "A standalone Angular implementation of the Google Material Design ripple effect.",
   "version": "0.0.7",
   "author": "Nelson Cash",
-  "homepage": "https://github.com/nelsoncash/ngRipple",
-  "bugs": "https://github.com/nelsoncash/ngRipple/issues",
-  "keywords": ["angular", "ripple", "ngRipple", "ng-ripple", "google", "material", "material design", "click"],
+  "homepage": "https://github.com/sp90/angular-ripple",
+  "bugs": "https://github.com/sp90/angular-ripple/issues",
+  "keywords": ["angular", "ripple", "angular-ripple", "ng-ripple", "google", "material", "material design", "click"],
   "license": "MIT",
   "contributors": "MikeMcChillin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nelsoncash/ngRipple.git"
+    "url": "https://github.com/sp90/angular-ripple.git"
   },
   "dependencies": {},
   "devDependencies": {

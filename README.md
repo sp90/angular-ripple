@@ -1,6 +1,8 @@
 angular-ripple
 ==============
 
+### Copy of nelsoncash/angular-ripple, to make it available on npm
+
 ![Click Gif](https://raw.githubusercontent.com/nelsoncash/angular-ripple/gh-pages/click.gif)
 
 A pure javascript (no polymer, no jQuery) AngularJS directive that adds a Google Material Design ripple effect when clicked or touched.
